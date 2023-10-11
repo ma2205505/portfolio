@@ -1,0 +1,37 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    /* background-color: #111; */
+}
+.marr{
+    font-size: large;
+    margin-top: 50px;
+}
+
+.color{
+    font-size: 20px;
+    margin-top: 30px;
+    color: crimson;    
+    font-weight: bold;
+}
+.hr{
+    color: black;
+}
+.color1{
+    font-size: 20px;
+    margin-top: 30px;
+    color: black;
+    font-weight: bold;
+}
+.go{
+    border: 1px solid crimson;
+    border-radius: 10px;
+    background-color: ycrimson;
+    color: crimson;
+    font-weight: bold;
+    margin: 20px;
+}
+.go:hover{
+    background-color: crimson;
+    color: white;
+}
